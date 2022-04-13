@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31613.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CapaDatos", "CapaDatos\CapaDatos.csproj", "{07724746-55A1-427B-BAF8-238E80D274E6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CapaNegocio", "CapaNegocio\CapaNegocio.csproj", "{3318615A-88D2-425C-858C-44CF26EA32A4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Principal", "Principal\Principal.csproj", "{9714DDE3-AE83-4357-892B-D1D1F2D788DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{07724746-55A1-427B-BAF8-238E80D274E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07724746-55A1-427B-BAF8-238E80D274E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07724746-55A1-427B-BAF8-238E80D274E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07724746-55A1-427B-BAF8-238E80D274E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3318615A-88D2-425C-858C-44CF26EA32A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3318615A-88D2-425C-858C-44CF26EA32A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3318615A-88D2-425C-858C-44CF26EA32A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3318615A-88D2-425C-858C-44CF26EA32A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9714DDE3-AE83-4357-892B-D1D1F2D788DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9714DDE3-AE83-4357-892B-D1D1F2D788DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9714DDE3-AE83-4357-892B-D1D1F2D788DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9714DDE3-AE83-4357-892B-D1D1F2D788DB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5E3E7328-BF45-4411-9EC7-57AC8096B307}
+	EndGlobalSection
+EndGlobal
